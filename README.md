@@ -1,2 +1,2 @@
-# cdn
-Open Source GitHub CSS/JS
+# cdn-kbinf
+Open Source GitHub CSS/JS - This is my free CDN
